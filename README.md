@@ -24,4 +24,4 @@ git push -u origin main
    - https://septemberrabbit.github.io/wenact-site/privacy.html
    - https://septemberrabbit.github.io/wenact-site/support.html
 
-联系邮箱当前为 `wenact@163.com`（与遗失之地同为 `@163.com` 模式）；请确认邮箱可用，或改三处 HTML 后再推送。
+联系邮箱当前为 `lzyuan108@163.com`（与遗失之地同为 `@163.com` 模式）；请确认邮箱可用，或改三处 HTML 后再推送。
